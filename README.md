@@ -18,6 +18,9 @@
 - Matplotlib  
 - Streamlit (для демо-приложения)
 - Selenium
+- BeautifulSoup
+- requests
+- JSON
 
 ## Цель проекта
 Автоматизация процесса категоризации новостей
